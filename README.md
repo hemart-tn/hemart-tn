@@ -6,7 +6,11 @@
 </p>
 
 <p align="center">
-  🚀 Passionate about Web Development & IoT (ESP32)  
+  🚀 Passionate about Web Development & IoT (ESP32)
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hemart-tn&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -23,6 +27,14 @@
 
 ---
 
+### 🧠 Language Usage
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hemart-tn&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ### ⚙️ Tools & Platforms
 
 <p align="center">
@@ -34,13 +46,12 @@
 
 ---
 
-### 💰 Services & Apps
+### 💰 Services
 
 <p align="center">
-  <a href="https://www.paypal.me/HemaTN" target="_blank">
+  <a href="https://www.paypal.me/HemaTN">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=000" />
 </p>
 
 ---
@@ -90,7 +101,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hemart-tn&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hemart-tn&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
