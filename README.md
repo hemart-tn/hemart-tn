@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="img/neko.gif" width="560"/>
+  <img src="img/neko.gif" width="700"/>
 </p>
 
 <p align="center">
