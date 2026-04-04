@@ -1,8 +1,16 @@
-<h1 align="center">Hi 👋, I'm Hema</h1>
-<h3 align="center">Frontend Developer from Indonesia 🇮🇩</h3>
+<h1 align="center">
+  Hi, I'm Hema 
+  <img src="img/r.gif" width="35px"/>
+</h1>
 
 <p align="center">
-  <img src="img/neko.gif" width="420"/>
+  <b>Frontend Developer from Indonesia 🇮🇩</b>
+  <img src="img/idn.gif" width="35"/>
+</p>
+
+
+<p align="center">
+  <img src="img/neko.gif" width="560"/>
 </p>
 
 <p align="center">
@@ -13,8 +21,11 @@
   <img src="https://komarev.com/ghpvc/?username=hemart-tn&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemart-tn&theme=tokyonight" />
+</p>
 
+---
 ### 💻 Programming & Tech
 
 <p align="center">
@@ -23,14 +34,6 @@
   <img src="https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
-
----
-
-### 🧠 Language Usage
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hemart-tn&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -51,7 +54,8 @@
 <p align="center">
   <a href="https://www.paypal.me/HemaTN">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=000" />
+  <img src="https://img.shields.io/badge/G%20pay-2875E3?style=for-the-badge&logo=googlepay&logoColor=white" />  
 </p>
 
 ---
@@ -93,18 +97,6 @@
     <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
   </a>
 
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemart-tn&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemart-tn&theme=tokyonight" />
 </p>
 
 ---
