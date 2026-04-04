@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there I'm Hema 👋
+
+![alt text](img/neko.gif)
+
 
 <!--
 **hemart-tn/hemart-tn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
