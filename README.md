@@ -6,6 +6,8 @@
 
 ---
 
+
+
 ### 💻 Programming & Tech
 
 <p align="center">
@@ -32,7 +34,9 @@
 ### 💰 Services & Apps
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+    <a href="https://www.paypal.me/HemaTN" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" />
   <img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=000" />
   <img src="https://img.shields.io/badge/Grab-00B14F?style=for-the-badge&logo=grab&logoColor=white" />
@@ -83,3 +87,17 @@
   </a>
 
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hemart-tn/hemart-tn/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hemart-tn/hemart-tn/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hemart-tn/hemart-tn/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/hemart-tn/hemart-tn/output/snake.svg" alt="Snake animation" />
+
+###
