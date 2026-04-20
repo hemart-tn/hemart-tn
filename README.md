@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="img/bamp.gif" width="700"/>
+  <img src="img/bam1.gif" width="700"/>
 </p>
 
 <p align="center">
@@ -102,7 +102,7 @@
 ---
 <p align="center">
   <b>Thank You For Visiting
-  <img src="img/mikuwv.gif" width="35"/>
+  <img src="img/mikunb.gif" width="35"/>
 </p>
 <p align="center">
   <img src="img/neko.gif" width="700"/>
