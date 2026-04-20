@@ -4,17 +4,16 @@
 </h1>
 
 <p align="center">
-  <b>Frontend Developer from Indonesia 🇮🇩</b>
+  <b>Frontend Developer & IoT Enthusiast from Indonesia 🇮🇩</b>
   <img src="img/idn.gif" width="35"/>
 </p>
 
-
 <p align="center">
-  <img src="img/neko.gif" width="700"/>
+  <img src="img/bamp.gif" width="700"/>
 </p>
 
 <p align="center">
-  🚀 Passionate about Web Development & IoT (ESP32)
+  🚀 Passionate about Web Development, IoT, and Embedded Systems
 </p>
 
 <p align="center">
@@ -54,6 +53,7 @@
 <p align="center">
   <a href="https://www.paypal.me/HemaTN">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=000" />
   <img src="https://img.shields.io/badge/G%20pay-2875E3?style=for-the-badge&logo=googlepay&logoColor=white" />  
 </p>
@@ -97,6 +97,15 @@
     <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
   </a>
 
+</p>
+
+---
+<p align="center">
+  <b>Thank You For Visiting
+  <img src="img/mikuwv.gif" width="35"/>
+</p>
+<p align="center">
+  <img src="img/neko.gif" width="700"/>
 </p>
 
 ---
